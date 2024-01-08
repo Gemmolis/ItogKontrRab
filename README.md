@@ -49,3 +49,5 @@ for (int i = 0; i < resultIndex; i++)
     }  
     Console.Write("]");**_</font>
 
+## Ссылка на GitHub
+//https://github.com/Gemmolis/ItogKontrRab.git 
