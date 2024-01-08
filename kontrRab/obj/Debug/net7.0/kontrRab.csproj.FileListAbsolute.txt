@@ -1,0 +1,14 @@
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\bin\Debug\net7.0\kontrRab.exe
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\bin\Debug\net7.0\kontrRab.deps.json
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\bin\Debug\net7.0\kontrRab.runtimeconfig.json
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\bin\Debug\net7.0\kontrRab.dll
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\bin\Debug\net7.0\kontrRab.pdb
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.dll
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\refint\kontrRab.dll
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.pdb
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\kontrRab.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\ItogKontrRab\kontrRab\obj\Debug\net7.0\ref\kontrRab.dll
